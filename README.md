@@ -1,10 +1,9 @@
 📊 End-to-End Data Analytics Portfolio Project
-📌 Overview
 
+📌 Overview
 This project demonstrates a complete end-to-end data analytics workflow, from loading and cleaning data to analyzing it with SQL and creating an interactive Power BI dashboard. The goal was to transform raw data into meaningful business insights using industry-standard tools.
 
 📂 Dataset
-
 The project uses a retail sales dataset containing customer, product, sales, shipping, and review information. The data was cleaned and analyzed to identify trends and support business decisions.
 
 🛠 Tools & Technologies
